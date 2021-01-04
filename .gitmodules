@@ -1,0 +1,6 @@
+[submodule "sharedfolder/libs"]
+	path = sharedfolder/libs
+	url = git@github.com:gotoadmin/submodules.git
+[submodule "sharedfolder/plugins"]
+	path = sharedfolder/plugins
+	url = git@github.com:gotoadmin/submodules.git
